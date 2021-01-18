@@ -24,6 +24,7 @@ plugins:
   - jemoji
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-tagging
 
 exclude:
  - Gemfile
