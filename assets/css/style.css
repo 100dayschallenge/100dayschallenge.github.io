@@ -139,6 +139,20 @@ h3 {
 	margin: 0 auto;
 }
 
+#content .tags {
+	border-bottom: 1px solid #1a412b;
+	margin: 0 0 1em;
+}
+#content .tags ul {
+	display: inline-block;
+	padding: 0;
+}
+#content .tags li {
+	display: inline-block;
+	list-style: none;
+	margin: 3px 5px ;
+}
+
 #sidebar {
 	position: absolute;
 	text-align: right;

@@ -12,6 +12,10 @@ layout: default
 		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
 	{% endif %}
 
+	<div class="tags">
+		Tags : <ul> {%- for tag in page.tags -%} <li> {{tag}}</li>  {%- endfor %}</ul>
+	</div>
+
 	<div class="post-content">{{ content }}</div>
 
 	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
