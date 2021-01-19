@@ -3,10 +3,10 @@
   <channel>
     <title>100 Days Challenge</title>
     <description>This site is an experimental test to find, if a can commit to healthy life for 100 days.</description>
-    <link>https://100dayschallenge.github.io/blog//blog//</link>
-    <atom:link href="https://100dayschallenge.github.io/blog//blog//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Jan 2021 22:08:45 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Jan 2021 22:08:45 +0000</lastBuildDate>
+    <link>https://100dayschallenge.github.io/blog//blog/</link>
+    <atom:link href="https://100dayschallenge.github.io/blog//blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 19 Jan 2021 22:19:52 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Jan 2021 22:19:52 +0000</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Tue, 19 Jan 2021 21:02:01 +0000</pubDate>
-        <link>https://100dayschallenge.github.io/blog//blog//2021/01/19/day-2-blog-configuration.html</link>
-        <guid isPermaLink="true">https://100dayschallenge.github.io/blog//blog//2021/01/19/day-2-blog-configuration.html</guid>
+        <link>https://100dayschallenge.github.io/blog//blog/2021/01/19/day-2-blog-configuration.html</link>
+        <guid isPermaLink="true">https://100dayschallenge.github.io/blog//blog/2021/01/19/day-2-blog-configuration.html</guid>
         
         <category>geek</category>
         
@@ -61,8 +61,8 @@ i gonna put all the things related to this experimental projet.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 18 Jan 2021 13:49:16 +0000</pubDate>
-        <link>https://100dayschallenge.github.io/blog//blog//2021/01/18/day-1-new-identity.html</link>
-        <guid isPermaLink="true">https://100dayschallenge.github.io/blog//blog//2021/01/18/day-1-new-identity.html</guid>
+        <link>https://100dayschallenge.github.io/blog//blog/2021/01/18/day-1-new-identity.html</link>
+        <guid isPermaLink="true">https://100dayschallenge.github.io/blog//blog/2021/01/18/day-1-new-identity.html</guid>
         
         <category>GTD</category>
         

@@ -33,7 +33,7 @@ update: _config.yml
 
 ## build and serve site
 serve: update
-	$(JEKYLL) server
+	$(JEKYLL) serve --config _config.yml,debug.yml
 
 ## build
 build:
