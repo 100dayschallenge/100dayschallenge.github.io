@@ -17,9 +17,13 @@
   <div id="page">
     <div id="sidebar">
       <nav>
+
+
         <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/about">About</a></li>
+          {%- assign menu_pages = site.pages | where:"menu", "true" | sort:"order" -%}
+          {%- for page in menu_pages %}
+          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+          {%- endfor %}
           <li class="subcat">
             <span>Tags</span>
             <ul>

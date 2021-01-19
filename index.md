@@ -1,5 +1,7 @@
 ---
 layout: home
-title: Home Page
+title: Home
+menu : true
+order: 1
 ---
 

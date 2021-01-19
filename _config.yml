@@ -49,3 +49,6 @@ jekyll-archives:
     month: month-archive
     category: tag-archive
     tag: tag-archive
+
+collections:
+  - recipes

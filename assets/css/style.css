@@ -179,7 +179,13 @@ h3 {
 #sidebar .subcat li {
 	font-size: 0.8em;
 }
-
+#sidebar .subcat ul {
+	margin:0;
+	padding:0;
+}
+#sidebar .subcat {
+	margin-top:1em;
+}
 /*** Posts ***/
 article {
 	margin-bottom: 40px;

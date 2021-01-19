@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+menu : true
+order: 3
 ---
 
 This is an experimental site where i gonna write everything i need to done and what i have done so far  
