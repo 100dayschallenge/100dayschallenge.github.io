@@ -5,12 +5,39 @@
     <description>This site is an experimental test to find, if a can commit to healthy life for 100 days.</description>
     <link>https://100dayschallenge.github.io/blog//blog//</link>
     <atom:link href="https://100dayschallenge.github.io/blog//blog//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Jan 2021 20:37:49 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Jan 2021 20:37:49 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Jan 2021 21:15:18 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Jan 2021 21:15:18 +0000</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
-        <title>Day One</title>
+        <title>Day Two - Blog Configuration </title>
+        <description>&lt;p&gt;On #Day2 i spent a lot of time a  emergency work.&lt;/p&gt;
+
+&lt;h4 id=&quot;geek-stuff&quot;&gt;Geek Stuff&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Change blog repository name to try use of custom jekyll version and plugins&lt;/li&gt;
+  &lt;li&gt;Watch cool things about economics and DIY&lt;/li&gt;
+  &lt;li&gt;Learn to use File template with phpstorm this is awesome :)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;gtd-stuff&quot;&gt;GTD Stuff&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sport : Check&lt;/li&gt;
+  &lt;li&gt;Healthy food : Not Fail No check.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 19 Jan 2021 21:02:01 +0000</pubDate>
+        <link>https://100dayschallenge.github.io/blog//blog//2021/01/19/day-2-blog-configuration.html</link>
+        <guid isPermaLink="true">https://100dayschallenge.github.io/blog//blog//2021/01/19/day-2-blog-configuration.html</guid>
+        
+        <category>geek</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Day One - New identity</title>
         <description>&lt;p&gt;This is #Day1 of my new life.&lt;br /&gt;
 And when you say new life you say new identity, then i create a new github account where 
 i gonna put all the things related to this experimental projet.&lt;/p&gt;
