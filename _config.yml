@@ -2,8 +2,8 @@ title: "100 Days Challenge"
 email: "YouDontNeedIt@nospam.forever"
 description: >-
   This site is an experimental test to find, if a can commit to healthy life for 100 days.
-baseurl: ""
-url: "https://100dayschallenge.github.io/"
+baseurl: "/blog/"
+url: "https://100dayschallenge.github.io/blog/"
 twitter_username:
 github_username: "100dayschallenge"
 

@@ -16,7 +16,7 @@ BACK_GREEN := $(shell tput setab 2)
 
 
 # jekyll configuration
-JEKYLL_VERSION=3.8
+JEKYLL_VERSION=latest
 DOCKER_JEKYLL  = docker run --volume="$(PWD):/srv/jekyll" -p 127.0.0.1:4000:4000/tcp -it jekyll/jekyll:$(JEKYLL_VERSION)
 GEM  = $(DOCKER_JEKYLL) gem
 BUNDLE  = $(DOCKER_JEKYLL) bundle
