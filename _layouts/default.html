@@ -22,14 +22,14 @@
         <ul>
           {%- assign menu_pages = site.pages | where:"menu", "true" | sort:"order" -%}
           {%- for page in menu_pages %}
-          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+          <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
           {%- endfor %}
           <li class="subcat">
             <span>Tags</span>
             <ul>
               {%- assign tag_archives = site.archives | where:"type", "tag" -%}
               {%- for archive in tag_archives %}
-                 <li><a href="{{ archive.url | replace: '.html', '' }}">{{ archive.title| downcase }}</a></li>
+                 <li><a href="{{ archive.url | relative_url | replace: '.html', '' }}">{{ archive.title| downcase }}</a></li>
               {%- endfor %}
             </ul>
           </li>
@@ -39,7 +39,7 @@
             <ul>
               {%- assign year_archives = site.archives | where:"type", "year" -%}
               {%- for archive in year_archives reversed %}
-               <li><a href="{{ archive.url | replace: '.html', '' }}">{{ archive.date | date: "%Y" }}</a></li>
+               <li><a href="{{ archive.url | relative_url | replace: '.html', '' }}">{{ archive.date | date: "%Y" }}</a></li>
               {%- endfor %}
             </ul>
           </li>
