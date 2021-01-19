@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>100 Days Challenge</title>
+    <description>This site is an experimental test to find, if a can commit to healthy life for 100 days.</description>
+    <link>https://100dayschallenge.github.io/blog//blog//</link>
+    <atom:link href="https://100dayschallenge.github.io/blog//blog//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 19 Jan 2021 20:37:49 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Jan 2021 20:37:49 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <title>Day One</title>
+        <description>&lt;p&gt;This is #Day1 of my new life.&lt;br /&gt;
+And when you say new life you say new identity, then i create a new github account where 
+i gonna put all the things related to this experimental projet.&lt;/p&gt;
+
+&lt;h4 id=&quot;short-term-objectives&quot;&gt;Short term objectives:&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create a new identity&lt;/li&gt;
+  &lt;li&gt;Write daily routine&lt;/li&gt;
+  &lt;li&gt;Organize the first week&lt;/li&gt;
+  &lt;li&gt;Publish daily report&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;long-term-objectives&quot;&gt;Long term objectives:&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To lose weight&lt;/li&gt;
+  &lt;li&gt;To gain muscle&lt;/li&gt;
+  &lt;li&gt;Finish work in the house&lt;/li&gt;
+  &lt;li&gt;Publish some dev stuff&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 18 Jan 2021 13:49:16 +0000</pubDate>
+        <link>https://100dayschallenge.github.io/blog//blog//2021/01/18/day-1-new-identity.html</link>
+        <guid isPermaLink="true">https://100dayschallenge.github.io/blog//blog//2021/01/18/day-1-new-identity.html</guid>
+        
+        <category>GTD</category>
+        
+        <category>geek</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
